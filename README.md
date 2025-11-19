@@ -1,4 +1,4 @@
-# enterprise-integration-examples
+# Enterprise-integration-examples
 📦  Examples of enterprise integration patterns using IBM MQ, MFT, IIB, and Python automation scripts.
 Enterprise Integration Examples (IBM MQ / MFT / IIB + Python)
 
